@@ -1,0 +1,29 @@
+# Ignore user-specific and sensitive files
+js/ai-chat.js
+
+# Node / npm
+node_modules/
+npm-debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Python server artifacts
+__pycache__/
+*.pyc
+
+# Build / Dist
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Others
+.env
+.idea/
