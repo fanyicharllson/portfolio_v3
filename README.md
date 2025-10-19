@@ -67,7 +67,3 @@ Contact
 - Reach: update the email/links in `index.html` contact section to your real email and profiles.
 
 ---
-
-If you'd like, I can:
-- Add a `favicon.ico` + PNGs and update `index.html` head for full compatibility.
-- Add a `package.json` + simple npm scripts to run a dev server and linting.
